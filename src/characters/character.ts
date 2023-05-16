@@ -1,5 +1,6 @@
 export class Character {
-  static series = 'Game of Thrones';
+  series = 'Game of Thrones';
+
   name;
   family;
   age;
